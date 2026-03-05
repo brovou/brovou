@@ -15,7 +15,9 @@
 - **Power BI — Pilotage projets** — Modèle + KPI + UX  
 - **Étude eau potable** — Préparation + Analyse + Recommandations  
 - **Étude de marché** — Segmentation + Insights
-
+- **ONEPCI** — Conception fonctionnelle et technique, développement, administration et support utilisateurs
+- **Application de gestion d’école (SaaS) ** — Conception & administration et support utilisateurs
+    
 ## Contact
 - Email : j.b.brovou@gmail.com  
 - LinkedIn : https://www.linkedin.com/in/bruno-brovou-645a12385/
