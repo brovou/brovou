@@ -8,8 +8,6 @@
 
 ## Portfolio
 - 🌐 Portfolio (FR/EN) : https://brovou.github.io  
-- 📄 CV : https://github.com/brovou/brovou.github.io/blob/main/CV_Bruno_Brovou_Data_Analyst_confirme.pdf   
-- 🎥 Vidéo de formation : https://github.com/brovou/brovou.github.io/blob/main/vid%C3%A9o%20de%20formation.mp4
 
 ## Projets phares
 - **Aéroworld (Power BI)** — Dashboards Profil & Veille + Doc + Vidéo  
