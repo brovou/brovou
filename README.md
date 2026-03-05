@@ -2,8 +2,8 @@
 
 **KPI • Data Quality • Power BI • SQL** — pilotage & amélioration continue (cas Aéroworld)
 
-- ✅ End-to-end : cadrage → dashboards → recommandations → documentation → formation  
-- ✅ 13 projets IT/Data • 26 compétences (1–5) • portefeuille OpenClassrooms validé  
+- ✅ End-to-end : cadrage → Dashboards → Recommandations → Documentation → Formation  
+- ✅ 13 projets IT/Data • 26 compétences (1–5) • Portefeuille OpenClassrooms validé  
 - ✅ Disponible avec **3 mois de préavis**
 
 ## Portfolio
@@ -12,11 +12,11 @@
 - 🎥 Vidéo de formation : https://github.com/brovou/brovou.github.io/blob/main/vid%C3%A9o%20de%20formation.mp4
 
 ## Projets phares
-- **Aéroworld (Power BI)** — dashboards Profil & Veille + doc + vidéo  
-- **SQL — Base immobilière** — modélisation + requêtes + cohérence  
-- **Power BI — Pilotage projets** — modèle + KPI + UX  
-- **Étude eau potable** — préparation + analyse + recommandations  
-- **Étude de marché** — segmentation + insights
+- **Aéroworld (Power BI)** — Dashboards Profil & Veille + Doc + Vidéo  
+- **SQL — Base immobilière** — Modélisation + Requêtes + Cohérence  
+- **Power BI — Pilotage projets** — Modèle + KPI + UX  
+- **Étude eau potable** — Préparation + Analyse + Recommandations  
+- **Étude de marché** — Segmentation + Insights
 
 ## Contact
 - Email : j.b.brovou@gmail.com  
