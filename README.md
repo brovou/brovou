@@ -1,8 +1,8 @@
 # Bruno Brovou — Data Analyst confirmé
 
-**KPI • Data Quality • Power BI • SQL** — pilotage & amélioration continue (cas Aéroworld)
+**KPI • Data Quality • Power BI • SQL** — Pilotage & Amélioration continue (cas Aéroworld)
 
-- ✅ End-to-end : cadrage → Dashboards → Recommandations → Documentation → Formation  
+- ✅ End-to-end : Cadrage → Dashboards → Recommandations → Documentation → Formation  
 - ✅ 13 projets IT/Data • 26 compétences (1–5) • Portefeuille OpenClassrooms validé  
 - ✅ Disponible avec **3 mois de préavis**
 
