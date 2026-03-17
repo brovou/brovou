@@ -25,7 +25,7 @@
 - Étude de marché — Segmentation + Insights  
 - Analyse ventes e-commerce — KPI + Recos
 - ML — Détection de faux billets (R/Python) — Data prep + classification + métriques + recommandation d’usage
-- ONEPCI — Web app : conception, dev, admin, support  
+- ONEPCI — Web app : Conception, dev, admin, support  
 - SaaS gestion d’école — cadrage, admin, support utilisateurs
 
 ### Contact
@@ -53,7 +53,7 @@
 - Market study — Segmentation + Insights  
 - E-commerce sales analysis — KPIs + Recommendations
 - ML — Détection de faux billets (R/Python) — Data prep + classification + métriques + recommandation d’usage → https://github.com/brovou/ml-faux-billets
-- ONEPCI — Web app: design, dev, admin, user support  
+- ONEPCI — Web app: Design, dev, admin, user support  
 - School management SaaS — requirements, admin, user training/support
 
 ### Contact
